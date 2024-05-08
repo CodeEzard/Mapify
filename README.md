@@ -1,4 +1,10 @@
 # Mapify
+Objective:- To allow buyer and seller apps to use Open source maps for e-commerce functionality such as creating polygon(s) of points, generating motorable paths between 2 points, computing motorable distance between 2 points.
+
+Test Link for Mapify:-
+https://mapify4you.netlify.app/
+
+More updates will be introduced soon!!
 
 ## Introduction
 
